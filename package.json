@@ -1,0 +1,19 @@
+{
+  "name": "all-out",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hangur/all-out.git"
+  },
+  "author": "Hangur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hangur/all-out/issues"
+  },
+  "homepage": "https://github.com/Hangur/all-out#readme"
+}
