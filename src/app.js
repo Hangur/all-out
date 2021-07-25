@@ -1,4 +1,4 @@
-const authKey = <put your authKey here>;
+const authKey = '<put your authKey here>';
 const submitButton = document.getElementById('submit');
 
 const getTranslation = async (authKey, input, sourceLang, targetLang) => {
