@@ -9,5 +9,5 @@ a submit button. Whatever text is submitted, the page fetches a translation for 
 - To utilize it, one'd have to put their `authKey` in the [app.js](src/app.js) file:
 
 ```javascript
-const authKey = `<put your authKey here>`;
+const authKey = '<put your authKey here>';
 ```
