@@ -4,7 +4,8 @@
   "description": "",
   "main": "src/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Hangur/all-out/issues"
   },
-  "homepage": "https://github.com/Hangur/all-out#readme"
+  "homepage": "https://github.com/Hangur/all-out#readme",
+  "dependencies": {
+    "parcel": "^2.0.0-beta.2"
+  }
 }
