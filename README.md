@@ -5,12 +5,18 @@ a submit button. Whatever text is submitted, the page fetches a translation for 
 
 ## How to run
 
-This app uses `parcel` as a web-packer. To run it use the following command:
+1. Clone the repository and run the command:
+
+```bash
+npm init
+```
+
+2. This app uses `parcel` as a web-packer. To run it use the following command:
 
 ```bash
 npm run dev
 ```
-And navigate with your browser to the provided url. By default it is:
+3. And navigate with your browser to the provided url. By default it is:
 
 `http://localhost:1234`
 
